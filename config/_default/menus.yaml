@@ -10,12 +10,12 @@ main:
   - name: Research
     url: '#posts'
     weight: 20
-  - name: Teaching
-    url: '#projects'
-    weight: 30
   - name: Talks
-    url: '#projects'
-    weight: 40    
+    url: '#skills'
+    weight: 30
+  - name: Teaching
+    url: '#accomplishments'
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
