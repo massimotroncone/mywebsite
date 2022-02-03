@@ -28,7 +28,17 @@ Most democracies define electoral constituencies geographically, that is by mean
 
 </br>
 
-:page_facing_up: Minority Status and Support for Supranational Integration (with Roberto Valli)
+:page_facing_up: The Day After. The Bandwagon Effect of Electoral Outcomes. (with [Roberto Valli](https://www.robertovalli.com/)) 
+
+<details>
+<summary>Abstract</summary>
+<br>
+How do partisan preferences develop in the aftermath of an election? Robust evidence suggest that electoral winners and losers display important differences in terms of satisfaction with and trust in the political system. By contrast, little is known about the effects of electoral outcomes on individuals’ preferences for political parties. In this paper we argue that elections can powerfully shake partisan attachments, with losers shying away from previously voted parties, and winners remaining safely attached to the bandwagon. We thus derive and test hypotheses both at the party’s and at the voter’s level. First, we predict winning (losing) parties to increase (decrease) support among the electorate in the aftermath of the election. Second, we predict winning (losing) voters to be less (more) likely to change party preference. To test these propositions, we leverage both monthly opinion polls for political parties across 12 European countries, and household panel surveys for Switzerland, UK, Germany, and the Netherlands. Our analysis relies on a difference-in-differences estimator to study the impact of elections on party support, and on a within-individual estimator to look at the changes in voters’ partisan preferences before and after the election. Our contribution is two-fold. First, we contribute to the winner-loser gap literature by showing that winners and losers update their partisan preferences differently following an election. Second, we expand our understanding of opinion polls by showing how electoral results can dramatically affect patterns in voting intentions.
+</details>
+
+</br>
+
+:page_facing_up: Minority Status and Support for Supranational Integration (with [Roberto Valli](https://www.robertovalli.com/))
 </br>
 <details>
 <summary>Abstract</summary>
@@ -39,20 +49,9 @@ of countries with peculiar dynamics of ethnic politics, that is states with larg
 
 </details>
 
-<br>
-
-:page_facing_up: The Day After. The Bandwagon Effect of Electoral Outcomes. (with Roberto Valli) 
-
-<details>
-<summary>Abstract</summary>
-<br>
-How do partisan preferences develop in the aftermath of an election? Robust evidence suggest that electoral winners and losers display important differences in terms of satisfaction with and trust in the political system. By contrast, little is known about the effects of electoral outcomes on individuals’ preferences for political parties. In this paper we argue that elections can powerfully shake partisan attachments, with losers shying away from previously voted parties, and winners remaining safely attached to the bandwagon. We thus derive and test hypotheses both at the party’s and at the voter’s level. First, we predict winning (losing) parties to increase (decrease) support among the electorate in the aftermath of the election. Second, we predict winning (losing) voters to be less (more) likely to change party preference. To test these propositions, we leverage both monthly opinion polls for political parties across 12 European countries, and household panel surveys for Switzerland, UK, Germany, and the Netherlands. Our analysis relies on a difference-in-differences estimator to study the impact of elections on party support, and on a within-individual estimator to look at the changes in voters’ partisan preferences before and after the election. Our contribution is two-fold. First, we contribute to the winner-loser gap literature by showing that winners and losers update their partisan preferences differently following an election. Second, we expand our understanding of opinion polls by showing how electoral results can dramatically affect patterns in voting intentions.
-</details>
-
-
 </br>
 
-:page_facing_up: Swiss Popular Initiatives and the Cultural Integration of Minorities. (with Fanny Puljic, Roberto Valli)
+:page_facing_up: Swiss Popular Initiatives and the Cultural Integration of Minorities. (with [Fanny Puljic](https://sites.google.com/view/fannypuljic/home), [Roberto Valli](https://www.robertovalli.com/))
 </br>
 <details>
 <summary>Abstract</summary>
