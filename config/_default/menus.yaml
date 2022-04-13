@@ -19,3 +19,5 @@ main:
   - name: Contact
     url: '#contact'
     weight: 50
+  - name: CV
+    url: https://www.dropbox.com/s/3w8hjue8nnzc2ra/CV_mt.pdf?dl=0

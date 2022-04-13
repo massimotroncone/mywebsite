@@ -17,6 +17,5 @@ design:
   columns: "2"
 ---
 
-+ MPSA Annual Conference (2022)
-+ SPSA Annual Congress (2022)
++ APSA Annual Meeting, MPSA Annual Conference, SPSA Annual Congress (2022)
 + EPSA Annual Conference (2021)

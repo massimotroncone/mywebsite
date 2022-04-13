@@ -19,7 +19,7 @@ design:
 ---
 
     
-:page_facing_up: The Electoral Connection and the Representation of Geographical Interests. Evidence from the Post-War Italian Senate.
+:page_facing_up: [The Electoral Connection and the Representation of Geographical Interests. Evidence from the Post-War Italian Senate](https://www.dropbox.com/s/jm2sp8z7dgudmwj/territorial_rep.pdf?dl=0)
 <details>
 <summary>Abstract</summary>
 <br>
@@ -28,7 +28,33 @@ Most democracies define electoral constituencies geographically, that is by mean
 
 </br>
 
-:page_facing_up: The Day After. The Bandwagon Effect of Electoral Outcomes. (with [Roberto Valli](https://www.robertovalli.com/)) 
+:page_facing_up: [Minority Status and Support for Supranational Integration](https://www.dropbox.com/s/liu0o5vbp2yf8wf/troncone_valli_minority_eu.pdf?dl=0) (with [Roberto Valli](https://www.robertovalli.com/))
+</br>
+<details>
+<summary>Abstract</summary>
+Are minority individuals particularly in favor of supranational integration? We argue that
+domestic minorities are more favorable to supranational integration because they benefit
+more from a strong supranational polity relative to majority individuals. Supranational
+integration erodes the policy-making powers of nation-states, which tend to grant the highest
+status and the most opportunities to the country’s titular nation. Hence we argue that
+the EU constitutes a relatively more attractive political system to minority than majority
+individuals. We test this largely overlooked intuition on the case of the European Union
+using multiple rounds of the European and International Social Surveys. Our empirical
+strategy relies on exact matching to identify suitable counterfactuals between minority and
+majority individuals. Results indicate a positive effect of minority status – operationalized as
+ethnic and linguistic traits, and parents’ origins – on support for European integration and,
+conversely, a negative effect on support for euroskeptic parties. Moreover, we explore the
+causal mechanisms and we find evidence that the effect is driven by individual assessments
+of the state’s treatment of social groups. Altogether, our contribution demonstrates the
+relevance of ethnic traits for supranational institutions’ support, and how one’s evaluation
+of a political system depends on contextual judgments about ethnic biases.
+<br>
+
+</details>
+
+</br>
+
+:page_facing_up: Jumping Ship or on the Bandwagon? The Effect of Electoral Defeat on Party Preferences (with [Roberto Valli](https://www.robertovalli.com/)) 
 
 <details>
 <summary>Abstract</summary>
@@ -38,28 +64,4 @@ How do partisan preferences develop in the aftermath of an election? Robust evid
 
 </br>
 
-:page_facing_up: Minority Status and Support for Supranational Integration (with [Roberto Valli](https://www.robertovalli.com/))
-</br>
-<details>
-<summary>Abstract</summary>
-Are minority individuals particularly in favor of supranational integration? We argue that supranational integration challenges the nation-state, a form of statehood that grants the highest status and the most opportunities to the country’s titular nation. We look at attitudes towards the European Union and hypothesize that minority individuals support European integration more than the “core nationals.” We test this largely overlooked intuition using multiple rounds of the European Social
-Survey. Our empirical strategy relies on coarsened exact matching to identify suitable counterfactuals between minority and majority individuals. Results indicate a positive effect of minority status – operationalized as ethnic and linguistic traits, and parents’ origins – on support for European integration and, conversely, a negative effect on support for eurosceptic parties. The effects are robust to various specifications and estimation strategies. We further show that among two sets
-of countries with peculiar dynamics of ethnic politics, that is states with large Russian minorities and multinational states with formal power-sharing arrangements, majority-minority differences in EU support work differently yet in line with our theory. Altogether, our contribution demonstrates the relevance of ethnic traits for supranational institutions’ support, and how one’s evaluation of a political system depends on contextual judgments about ethnic biases.
-<br>
-
-</details>
-
-</br>
-
-:page_facing_up: Swiss Popular Initiatives and the Cultural Integration of Minorities. (with [Fanny Puljic](https://sites.google.com/view/fannypuljic/home), [Roberto Valli](https://www.robertovalli.com/))
-</br>
-<details>
-<summary>Abstract</summary>
-Immigration has been a source of controversy and resentment in Western societies over the past 30 years, strengthening political parties that mobilize against migrants and residents with migratory background. Anti-migrant resentment takes various forms, from support to far-right parties to discrimination and protest. However, in Switzerland these sentiments also manifest as popular initiatives that pit migrant and “native” communities against each other. While previous studies have mostly focused on labor market and educational outcomes of minorities, we specifically look at the cultural integration of immigrants.
-The goal of this project is to address the effects of anti-immigration attitudes on the migrant communities by quantitatively assessing the consequences of the 2014 Swiss popular initiative against mass immigration. We focus on two outcomes that accurately measure immigrants' response in terms of cultural integration. First, we study how the popular initiative affects individual choices concerning the ethnicity of the offspring's name. Second, we study the effects on the probability of mixed marriages between migrants and natives. We consider first names as a way for people to signal their cultural identity, and intermarriages as a measure of the intensity and quality of interactions between the two communities.
-Our analysis is based on the complete Swiss census from 2010-2020, including all civil status events (e.g., births, marriages, deaths) and migratory movements. We complement this data with nationally representative surveys, including individual-level demographics (e.g., spoken language, religion, education, and employment), and household-level information.
-To determine the effect of the popular initiative on the ethnic character of the names given to the offspring, we exploit within-family variation, i.e., changes between siblings born before and after the initiative. In this way, we control for time-invariant family characteristics that influence naming patterns. Instead, to estimate the effect on the probability of marrying a Swiss person we compare individuals with similar characteristics who married before and after the vote. These characteristics include basic sociodemographics (e.g., age, gender), as well as individual ethnocultural (e.g., country of origin, religion, language) and grid cell-level characteristics (e.g., neighborhood ethnic composition, population, urban/rural).
-Our paper contributes to the strand of economic and political science literature on the integration of the migrant population, by studying the effect of popular votes signaling societal resentment against migrants. Moreover, unlike most studies we move beyond labor-market outcomes to observe behavior that is highly informative of individual cultural preferences.
-<br>
-
-</details>
+:page_facing_up: Swiss Popular Initiatives and the Cultural Integration of Minorities (with [Fanny Puljic](https://sites.google.com/view/fannypuljic/home), [Roberto Valli](https://www.robertovalli.com/))
