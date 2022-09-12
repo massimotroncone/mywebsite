@@ -19,7 +19,7 @@ design:
 ---
 
     
-:page_facing_up: [The Electoral Connection and the Representation of Geographical Interests. Evidence from the Post-War Italian Senate](https://www.dropbox.com/s/jm2sp8z7dgudmwj/territorial_rep.pdf?dl=0)
+:page_facing_up: The Electoral Connection and the Representation of Geographical Interests. Evidence from the Post-War Italian Senate
 <details>
 <summary>Abstract</summary>
 <br>
