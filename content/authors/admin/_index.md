@@ -43,7 +43,7 @@ superuser: true
 title: Massimo Troncone
 ---
 
-I am a PhD candidate in political science at the [European Politics Research Group](https://eup.ethz.ch/) at ETH Zurich. My primary research interest lies in electoral institutions and politicians’ behaviour. In my dissertation, I exploit the unique features of the post-war Italian Senate to study the effects of the electoral connection on targeted spending and local legislation.
+I am a PhD candidate in political science at the [European Politics Research Group](https://eup.ethz.ch/) at ETH Zurich. Between September 2022 and March 2023 I will be visiting the [Department of Political Science at Washington University in St. Louis](https://polisci.wustl.edu/). My primary research interest lies in electoral institutions and politicians’ behaviour. In my dissertation, I exploit the unique features of the post-war Italian Senate to study the effects of the electoral connection on targeted spending and local legislation.
 
 Currently, I am also collaborating on various projects on ethnic politics, with a particular focus on minorities’ political preferences and cultural integration.  My works typically combine individual-level observational data with standard methods for causal inference to uncover credible relations.
 
