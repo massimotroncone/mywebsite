@@ -43,9 +43,9 @@ superuser: true
 title: Massimo Troncone
 ---
 
-I am a PhD candidate in political science at the [European Politics Research Group](https://eup.ethz.ch/) at ETH Zurich. Between September 2022 and March 2023 I will be visiting the [Department of Political Science at Washington University in St. Louis](https://polisci.wustl.edu/). My primary research interest lies in electoral institutions and politicians’ behaviour. In my dissertation, I exploit the unique features of the post-war Italian Senate to study the effects of the electoral connection on targeted spending and local legislation.
+I am a PhD candidate in political science at the [European Politics Research Group](https://eup.ethz.ch/) at ETH Zurich. Between September 2022 and March 2023 I will be visiting the [Department of Political Science at Washington University in St. Louis](https://polisci.wustl.edu/). My primary research interest lies in electoral institutions and politicians’ behavior. In my dissertation, I take advantage of the two-tier elections to the Italian Senate to study the political consequences of malapportionment.
 
-Currently, I am also collaborating on various projects on ethnic politics, with a particular focus on minorities’ political preferences and cultural integration.  My works typically combine individual-level observational data with standard methods for causal inference to uncover credible relations.
+Currently, I am also collaborating on various projects on ethnic politics, with a particular focus on minorities’ political preferences and cultural integration.  My works typically combine observational data with standard methods for causal inference.
 
 Before embarking on the PhD, I completed my MA in Comparative and International Studies at [ETH Zurich](https://macis.gess.ethz.ch/), and the BA in Political Science between the [University of Turin](https://www.didattica-cps.unito.it/do/home.pl/View?doc=corsi_di_studio/SPS_scienze_politiche_sociali/presentazione.html) and the [Dresden University of Technology](https://tu-dresden.de/gsw/phil/powi). 
 
