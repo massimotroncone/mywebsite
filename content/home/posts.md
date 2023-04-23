@@ -19,35 +19,32 @@ design:
 ---
 
     
-:page_facing_up: The Effects of Malapportionment on the Representation of District Interests: Evidence from Italy.
+:page_facing_up: [Minority Status and Support for Supranational Integration](https://www.dropbox.com/s/7z9izkxvx25q2ei/troncone_valli_minority_eu.pdf?dl=0) (with [Roberto Valli](https://www.robertovalli.com/))
 <details>
 <summary>Abstract</summary>
+The growing backlash against globalization raises new questions about the sources of public
+support for international organizations. This article proposes a novel theory of minority
+status and support for supranational integration. We argue that the gap in status and opportunities
+between majority and minority individuals affects the evaluation of international
+institutions. Individuals whose socioeconomic status and opportunities are restricted because
+of minority traits are more dissatisfied with national institutions and more favorable
+toward supranational integration than their majority counterparts. We test our theory on
+the European Union, the most advanced case of regional integration. Using different operationalizations
+of minority status and an exact matching strategy we demonstrate a robust
+positive association between minority status and support for supranational integration. We
+present suggestive evidence that minorities are less satisfied with the national government
+and democracy than majorities, and that discrimination or political exclusion moderate the
+opinion gap between majorities and minorities.
 <br>
-A normatively appealing characteristic of most representative democracies is that their electoral rules are designed to assure that each group of voters receives representation roughly proportionate to their number. Scholars have devoted a great deal of attention to malapportionment precisely because it is a violation of this principle. However, discerning the effects of malapportionment can be challenging because the intentional overrepresentation (underrepresentation) of some districts is almost always associated with characteristics of the districts that can confound the effects of the number of MPs they select. I take advantage of the two-tier elections to the Italian Senate between 1994–2001 and a comprehensive database of actions by individual MPs to disentangle the real benefits of being relatively overrepresented. Using a discontinuity design based on close elections, I first show that the Italian two-tier system caused malapportionment by allowing otherwise similar single-member districts to elect either one or two senators. I then find that districts that barely elect two representatives are more frequently the target of several legislative and non-legislative activities than districts that barely elect one representative.  The bias in favor of overrepresented areas is driven by the higher number of elected senators and not by variation in legislator effort. The results of the study demonstrate the political consequences of unequal representation and contribute to the debate about the design of electoral institutions.
 </details>
 
 </br>
 
-:page_facing_up: Minority Status and Support for Supranational Integration (with [Roberto Valli](https://www.robertovalli.com/))
+:page_facing_up: The Effects of Malapportionment on the Representation of District Interests: Evidence from Italy.
 </br>
 <details>
 <summary>Abstract</summary>
-The growing backlash against globalization and supranational integration raises new questions
-about the sources of public support for international organizations. In this article, we
-draw on studies of nationalism and ethnic politics to argue that the gap in status and opportunities
-between majority and minority individuals affects the evaluation of international
-institutions. Our theory predicts that individuals bearing minority traits, whose socioeconomic
-status and opportunities are oftentimes restricted because of such traits, are more
-dissatisfied with national institutions and more favorable toward supranational integration
-than their majority counterparts. To test our expectations we focus on the European Union
-as the most advanced manifestation of regional integration beyond the nation-state. Using a
-wide range of contemporary survey evidence, multiple outcomes, and different operationalizations
-of minority status, we first demonstrate a robust positive association between minority
-status and support for supranational integration. We then present suggestive evidence of the
-causal mechanism implied by our theory. In particular, we show that second-generation migrants
-and regional minorities are less satisfied with the national government and democracy
-than majorities, and that negative experiences such as discrimination or political exclusion
-affect minorities’ views of domestic and European institutions.
+A normatively appealing characteristic of most representative democracies is that their electoral rules are designed to assure that each group of voters receives representation roughly proportionate to their number. Scholars have devoted a great deal of attention to malapportionment precisely because it is a violation of this principle. However, discerning the effects of malapportionment can be challenging because the intentional overrepresentation (underrepresentation) of some districts is almost always associated with characteristics of the districts that can confound the effects of the number of MPs they select. I take advantage of the two-tier elections to the Italian Senate between 1994–2001 and a comprehensive database of actions by individual MPs to disentangle the real benefits of being relatively overrepresented. Using a discontinuity design based on close elections, I first show that the Italian two-tier system caused malapportionment by allowing otherwise similar single-member districts to elect either one or two senators. I then find that districts that barely elect two representatives are more frequently the target of several legislative and non-legislative activities than districts that barely elect one representative.  The bias in favor of overrepresented areas is driven by the higher number of elected senators and not by variation in legislator effort. The results of the study demonstrate the political consequences of unequal representation and contribute to the debate about the design of electoral institutions.
 <br>
 
 </details>
