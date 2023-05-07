@@ -47,6 +47,6 @@ I am a PhD candidate in political science at the [European Politics Research Gro
 
 Currently, I am also collaborating on various projects on ethnic politics, with a particular focus on minorities’ political preferences and cultural integration.  My works typically combine observational data with standard methods for causal inference.
 
-Before embarking on the PhD, I completed my MA in Comparative and International Studies at [ETH Zurich](https://macis.gess.ethz.ch/), and the BA in Political Science between the [University of Turin](https://www.didattica-cps.unito.it/do/home.pl/View?doc=corsi_di_studio/SPS_scienze_politiche_sociali/presentazione.html) and the [Dresden University of Technology](https://tu-dresden.de/gsw/phil/powi). 
+Before embarking on the PhD, I completed my MA in Comparative and International Studies at [ETH Zurich](https://macis.gess.ethz.ch/), and the BA in Political Science between the [University of Turin](https://www.didattica-cps.unito.it/do/home.pl) and the [Dresden University of Technology](https://tu-dresden.de/gsw/phil/powi). 
 
 On this page, you can find information about my research and teaching. Feel free to [drop me an email](mailto::massimo.troncone@eup.gess.ethz.ch) for further requests.
