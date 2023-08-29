@@ -19,6 +19,31 @@ design:
 ---
 
 <p style="margin-bottom:0;">
+:page_facing_up: Massimo Troncone. <b> Malapportionment, Legislator Effort and the Representation of District Interests. Evidence from the Italian Senate</b>
+</p> 
+<p>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<button class="btn btn-outline-primary my-1 mr-1 btn-sm" style="font-size:10px;height:21px;width:58px" onclick="myFunction()"> Abstract
+</button>
+<button class="btn btn-outline-primary my-1 mr-1 btn-sm" onclick="window.open('https://www.dropbox.com/scl/fi/6hfcwucz87xx39ez6olbm/troncone_malapp_ita.pdf?rlkey=t6mu37a4gmopg4bp3wgcsa4dt&dl=0', '_blank');" style="font-size:10px;height:21px;width:50px" type="button"><i class="fa fa-download" aria-hidden="true"></i> PDF</button>
+
+<div id="myDIV2" style="display: none;"><p>A It is often assumed that malapportionment biases policymaking toward the interests of overrepresented districts, but the literature lacks empirical evidence of such effect and its theoretical foundations. In this article, I first demonstrate that the two-tier elections to the Italian Senate between 1994-2001 caused malapportionment by allowing single-member districts with similar population size to elect either one or two senators. I then outline testable implications regarding the relationship between malapportionment, legislator effort, and the policymaking bias. Using a discontinuity design based on close elections, I find that the local interests of overrepresented districts receive disproportionately greater attention in bill sponsorship. The effect is driven by the election of a second senator and by the increased activism of electorally vulnerable senators from overrepresented districts. Both geographically-targeted and sectoral bills contribute to this bias. The results demonstrate the political consequences of unequal representation.
+</p></div>
+
+<script>
+function myFunction2() {
+      var x = document.getElementById("myDIV2");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      } else {
+        x.style.display = "none";
+      }
+    }
+</script>
+
+</p>
+
+<p style="margin-bottom:0;">
 :page_facing_up: Massimo Troncone and <a style="color:#323232" href="https://www.robertovalli.com/"> Roberto Valli</a> (2023). <b> Minority Status and Support for Supranational Integration</b>. Submitted.
 </p> 
 <p>
@@ -42,31 +67,6 @@ function myFunction() {
 </script>
 
 </p>
-
-
-<p style="margin-bottom:0;">
-:page_facing_up: Massimo Troncone. <b> The Effects of Malapportionment on the Representation of District Interests: Evidence from Italy</b>
-</p>
-<p>
-<button class="btn btn-outline-primary my-1 mr-1 btn-sm" style="font-size:10px;height:21px;width:58px" onclick="myFunction2()">  Abstract
-</button>
-
-<div id="myDIV2" style="display: none;"><p>A normatively appealing characteristic of most representative democracies is that their electoral rules are designed to assure that each group of voters receives representation roughly proportionate to their number. Scholars have devoted a great deal of attention to malapportionment precisely because it is a violation of this principle. However, discerning the effects of malapportionment can be challenging because the intentional overrepresentation (underrepresentation) of some districts is almost always associated with characteristics of the districts that can confound the effects of the number of MPs they select. I take advantage of the two-tier elections to the Italian Senate between 1994–2001 and a comprehensive database of actions by individual MPs to disentangle the real benefits of being relatively overrepresented. Using a discontinuity design based on close elections, I first show that the Italian two-tier system caused malapportionment by allowing otherwise similar single-member districts to elect either one or two senators. I then find that districts that barely elect two representatives are more frequently the target of several legislative and non-legislative activities than districts that barely elect one representative.  The bias in favor of overrepresented areas is driven by the higher number of elected senators and not by variation in legislator effort. The results of the study demonstrate the political consequences of unequal representation and contribute to the debate about the design of electoral institutions.
-</p></div>
-
-<script>
-function myFunction2() {
-      var x = document.getElementById("myDIV2");
-      if (x.style.display === "none") {
-        x.style.display = "block";
-      } else {
-        x.style.display = "none";
-      }
-    }
-</script>
-
-</p>
-
 
 <p style="margin-bottom:0;">
 :page_facing_up: <a style="color:#323232" href="https://www.robertovalli.com/"> Roberto Valli</a> and Massimo Troncone. <b> Jumping Ship or on the Bandwagon? The Effect of Electoral Defeat on Party Preferences</b>.
