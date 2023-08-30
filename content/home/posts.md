@@ -27,11 +27,11 @@ design:
 </button>
 <button class="btn btn-outline-primary my-1 mr-1 btn-sm" onclick="window.open('https://www.dropbox.com/scl/fi/6hfcwucz87xx39ez6olbm/troncone_malapp_ita.pdf?rlkey=t6mu37a4gmopg4bp3wgcsa4dt&dl=0', '_blank');" style="font-size:10px;height:21px;width:50px" type="button"><i class="fa fa-download" aria-hidden="true"></i> PDF</button>
 
-<div id="myDIV2" style="display: none;"><p>A It is often assumed that malapportionment biases policymaking toward the interests of overrepresented districts, but the literature lacks empirical evidence of such effect and its theoretical foundations. In this article, I first demonstrate that the two-tier elections to the Italian Senate between 1994-2001 caused malapportionment by allowing single-member districts with similar population size to elect either one or two senators. I then outline testable implications regarding the relationship between malapportionment, legislator effort, and the policymaking bias. Using a discontinuity design based on close elections, I find that the local interests of overrepresented districts receive disproportionately greater attention in bill sponsorship. The effect is driven by the election of a second senator and by the increased activism of electorally vulnerable senators from overrepresented districts. Both geographically-targeted and sectoral bills contribute to this bias. The results demonstrate the political consequences of unequal representation.
+<div id="myDIV2" style="display: none;"><p>It is often assumed that malapportionment biases policymaking toward the interests of overrepresented districts, but the literature lacks empirical evidence of such effect and its theoretical foundations. In this article, I first demonstrate that the two-tier elections to the Italian Senate between 1994-2001 caused malapportionment by allowing single-member districts with similar population size to elect either one or two senators. I then outline testable implications regarding the relationship between malapportionment, legislator effort, and the policymaking bias. Using a discontinuity design based on close elections, I find that the local interests of overrepresented districts receive disproportionately greater attention in bill sponsorship. The effect is driven by the election of a second senator and by the increased activism of electorally vulnerable senators from overrepresented districts. Both geographically-targeted and sectoral bills contribute to this bias. The results demonstrate the political consequences of unequal representation.
 </p></div>
 
 <script>
-function myFunction2() {
+function myFunction() {
       var x = document.getElementById("myDIV2");
       if (x.style.display === "none") {
         x.style.display = "block";
@@ -48,7 +48,7 @@ function myFunction2() {
 </p> 
 <p>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<button class="btn btn-outline-primary my-1 mr-1 btn-sm" style="font-size:10px;height:21px;width:58px" onclick="myFunction()"> Abstract
+<button class="btn btn-outline-primary my-1 mr-1 btn-sm" style="font-size:10px;height:21px;width:58px" onclick="myFunction2()"> Abstract
 </button>
 <button class="btn btn-outline-primary my-1 mr-1 btn-sm" onclick="window.open('https://www.dropbox.com/s/mjgupno28xwuemw/troncone_valli_minority_eu.pdf?dl=0', '_blank');" style="font-size:10px;height:21px;width:50px" type="button"><i class="fa fa-download" aria-hidden="true"></i> PDF</button>
 
@@ -56,7 +56,7 @@ function myFunction2() {
 </p></div>
 
 <script>
-function myFunction() {
+function myFunction2() {
       var x = document.getElementById("myDIV");
       if (x.style.display === "none") {
         x.style.display = "block";
