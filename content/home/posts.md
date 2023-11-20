@@ -25,9 +25,18 @@ design:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <button class="btn btn-outline-primary my-1 mr-1 btn-sm" style="font-size:10px;height:21px;width:58px" onclick="myFunction()"> Abstract
 </button>
-<button class="btn btn-outline-primary my-1 mr-1 btn-sm" onclick="window.open('https://www.dropbox.com/scl/fi/6hfcwucz87xx39ez6olbm/troncone_malapp_ita.pdf?rlkey=t6mu37a4gmopg4bp3wgcsa4dt&dl=0', '_blank');" style="font-size:10px;height:21px;width:50px" type="button"><i class="fa fa-download" aria-hidden="true"></i> PDF</button>
+<button class="btn btn-outline-primary my-1 mr-1 btn-sm" onclick="window.open('https://www.dropbox.com/scl/fi/z2oxdfv92f06zm5uhja85/troncone_malapp_ita.pdf?rlkey=mnvc0pj9f5513xqwj051a41ex&dl=0', '_blank');" style="font-size:10px;height:21px;width:50px" type="button"><i class="fa fa-download" aria-hidden="true"></i> PDF</button>
 
-<div id="myDIV2" style="display: none;"><p>It is often assumed that malapportionment biases policymaking toward the interests of overrepresented districts, but the literature lacks empirical evidence of such effect and its theoretical foundations. In this article, I first demonstrate that the two-tier elections to the Italian Senate between 1994-2001 caused malapportionment by allowing single-member districts with similar population size to elect either one or two senators. I then outline testable implications regarding the relationship between malapportionment, legislator effort, and the policymaking bias. Using a discontinuity design based on close elections, I find that the local interests of overrepresented districts receive disproportionately greater attention in bill sponsorship. The effect is driven by the election of a second senator and by the increased activism of electorally vulnerable senators from overrepresented districts. Both geographically-targeted and sectoral bills contribute to this bias. The results demonstrate the political consequences of unequal representation.
+<div id="myDIV2" style="display: none;"><p>Does malapportionment bias policymaking in favor of overrepresented districts? In this
+article, I first demonstrate that the two-tier elections to the Italian Senate between 1994-2001
+caused malapportionment by allowing districts with similar population size to elect either one
+or two senators. I then argue that the policymaking process favors overrepresented districts
+via a mechanical and a behavioral effect. Using a discontinuity design based on close elections,
+I find that the local interests of overrepresented districts receive disproportionately greater
+attention in bill sponsorship. The effect is driven not only by the election of a second senator
+but also by the increased activism of electorally vulnerable senators from overrepresented
+districts. Both geographically targeted and sectoral bills contribute to this bias. The results
+demonstrate the political consequences of unequal representation.
 </p></div>
 
 <script>
@@ -44,15 +53,21 @@ function myFunction() {
 </p>
 
 <p style="margin-bottom:0;">
-:page_facing_up: Massimo Troncone and <a style="color:#323232" href="https://www.robertovalli.com/"> Roberto Valli</a> (2023). <b> Minority Status and Support for Supranational Integration</b>. Submitted.
+:page_facing_up: Massimo Troncone and <a style="color:#323232" href="https://www.robertovalli.com/"> Roberto Valli</a>. <b> Minority Status and Support for Supranational Integration</b>. Submitted.
 </p> 
 <p>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <button class="btn btn-outline-primary my-1 mr-1 btn-sm" style="font-size:10px;height:21px;width:58px" onclick="myFunction2()"> Abstract
 </button>
-<button class="btn btn-outline-primary my-1 mr-1 btn-sm" onclick="window.open('https://www.dropbox.com/s/mjgupno28xwuemw/troncone_valli_minority_eu.pdf?dl=0', '_blank');" style="font-size:10px;height:21px;width:50px" type="button"><i class="fa fa-download" aria-hidden="true"></i> PDF</button>
+<button class="btn btn-outline-primary my-1 mr-1 btn-sm" onclick="window.open('https://www.dropbox.com/scl/fi/kdmo0gnguq2qutzn3x20o/troncone_valli_minority_eu.pdf?rlkey=e11c0mihpb6zu23kzptgsrc0m&dl=0', '_blank');" style="font-size:10px;height:21px;width:50px" type="button"><i class="fa fa-download" aria-hidden="true"></i> PDF</button>
 
-<div id="myDIV" style="display: none;"><p>The growing backlash against globalization raises new questions about the sources of public support for international organizations. This article proposes a novel theory of minority status and support for supranational integration. We argue that the gap in status and opportunities between majority and minority individuals affects the evaluation of international institutions. Individuals whose socioeconomic status and opportunities are restricted because of minority traits are more dissatisfied with national institutions and more favorable toward supranational integration than their majority counterparts. We test our theory on the European Union, the most advanced case of regional integration. Using different operationalizations of minority status and an exact matching strategy we demonstrate a robust positive association between minority status and support for supranational integration. We present suggestive evidence that minorities are less satisfied with the national government and democracy than majorities, and that discrimination or political exclusion moderate the opinion gap between majorities and minorities.
+<div id="myDIV" style="display: none;"><p>This article proposes a novel theory of minority status and support for supranational integration. We argue that the gap in status and opportunities between majority and minority
+individuals affects the evaluation of international institutions. Individuals whose socioeconomic status and opportunities are restricted because of minority traits are more dissatisfied
+with national institutions and more favorable toward supranational integration than their
+majority counterparts. We test our theory on the European Union, the most advanced case
+of regional integration. Using different operationalizations of minority status and an exact
+matching strategy we demonstrate a robust positive association between minority status and
+support for supranational integration. Testing the mechanisms, we present evidence that integration in the host country and discrimination drive these effects.
 </p></div>
 
 <script>
