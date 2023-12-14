@@ -17,5 +17,10 @@ design:
   columns: "2"
 ---
 
-+ Contemporary European Politics (Spring 2021, 2022) <br/>
-ETH Zurich, graduate course, *co-lecturer & course organizer*
++ Contemporary European Politics (Spring 2022, 2023) <br/>
+ETH Zurich, graduate course, *co-lecturer*
+
+</p>
+
++ Methods I. Research Design and Data Collection (Fall 2023) <br/>
+ETH Zurich, graduate course, *teaching assistant*

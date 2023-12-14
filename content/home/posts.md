@@ -19,24 +19,15 @@ design:
 ---
 
 <p style="margin-bottom:0;">
-:page_facing_up: Massimo Troncone. <b> Malapportionment, Legislator Effort and the Representation of District Interests. Evidence from the Italian Senate</b>
+:page_facing_up: Massimo Troncone. <b> Malapportionment, Legislator Effort and the Representation of District Interests. Evidence from the Italian Senate</b>. <em>Under review</em>.
 </p> 
 <p>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <button class="btn btn-outline-primary my-1 mr-1 btn-sm" style="font-size:10px;height:21px;width:58px" onclick="myFunction()"> Abstract
 </button>
-<button class="btn btn-outline-primary my-1 mr-1 btn-sm" onclick="window.open('https://www.dropbox.com/scl/fi/z2oxdfv92f06zm5uhja85/troncone_malapp_ita.pdf?rlkey=mnvc0pj9f5513xqwj051a41ex&dl=0', '_blank');" style="font-size:10px;height:21px;width:50px" type="button"><i class="fa fa-download" aria-hidden="true"></i> PDF</button>
+<button class="btn btn-outline-primary my-1 mr-1 btn-sm" onclick="window.open('https://www.dropbox.com/scl/fi/yp000y5suek0lfs7zgk5c/troncone_malapp_ita.pdf?rlkey=ss2jqm0es9hw095ss23nmgt7t&dl=0', '_blank');" style="font-size:10px;height:21px;width:50px" type="button"><i class="fa fa-download" aria-hidden="true"></i> PDF</button>
 
-<div id="myDIV2" style="display: none;"><p>Does malapportionment bias policymaking in favor of overrepresented districts? In this
-article, I first demonstrate that the two-tier elections to the Italian Senate between 1994-2001
-caused malapportionment by allowing districts with similar population size to elect either one
-or two senators. I then argue that the policymaking process favors overrepresented districts
-via a mechanical and a behavioral effect. Using a discontinuity design based on close elections,
-I find that the local interests of overrepresented districts receive disproportionately greater
-attention in bill sponsorship. The effect is driven not only by the election of a second senator
-but also by the increased activism of electorally vulnerable senators from overrepresented
-districts. Both geographically targeted and sectoral bills contribute to this bias. The results
-demonstrate the political consequences of unequal representation.
+<div id="myDIV2" style="display: none;"><p>This paper studies the effect of malapportionment on policymaking. I argue that in malapportioned chambers, policymaking is biased in favor of overrepresented districts via a mechanical and a behavioral effect. Using data on the Italian Senate and a regression discontinuity design, I first show that two-tier electoral systems can cause malapportionment by allowing districts with similar population size to elect a different number of legislators. I then demonstrate that the local interests of overrepresented districts receive disproportionately greater attention in bill sponsorship. The effect is driven not only by the election of the additional legislator but also by the increased activism of electorally vulnerable legislators from overrepresented districts. Both geographically targeted and sectoral bills contribute to this bias. The results demonstrate the political consequences of unequal geographic representation.
 </p></div>
 
 <script>
@@ -53,7 +44,7 @@ function myFunction() {
 </p>
 
 <p style="margin-bottom:0;">
-:page_facing_up: Massimo Troncone and <a style="color:#323232" href="https://www.robertovalli.com/"> Roberto Valli</a>. <b> Minority Status and Support for Supranational Integration</b>. Submitted.
+:page_facing_up: Massimo Troncone and <a style="color:#323232" href="https://www.robertovalli.com/"> Roberto Valli</a>. <b> Minority Status and Support for Supranational Integration</b>. <em>Under review</em>.
 </p> 
 <p>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -80,31 +71,3 @@ function myFunction2() {
       }
     }
 </script>
-
-</p>
-
-<p style="margin-bottom:0;">
-:page_facing_up: <a style="color:#323232" href="https://www.robertovalli.com/"> Roberto Valli</a> and Massimo Troncone. <b> Jumping Ship or on the Bandwagon? The Effect of Electoral Defeat on Party Preferences</b>.
-</p>
-<p>
-<button class="btn btn-outline-primary my-1 mr-1 btn-sm"  style="font-size:10px;height:21px;width:58px" onclick="myFunction3()">  Abstract
-</button>
-
-<div id="myDIV3" style="display: none;"><p>How do partisan preferences develop in the aftermath of an election? Robust evidence suggest that electoral winners and losers display important differences in terms of satisfaction with and trust in the political system. By contrast, little is known about the effects of electoral outcomes on individuals’ preferences for political parties. In this paper we argue that elections can powerfully shake partisan attachments, with losers shying away from previously voted parties, and winners remaining safely attached to the bandwagon. We thus derive and test hypotheses both at the party’s and at the voter’s level. First, we predict winning (losing) parties to increase (decrease) support among the electorate in the aftermath of the election. Second, we predict winning (losing) voters to be less (more) likely to change party preference. To test these propositions, we leverage both monthly opinion polls for political parties across 12 European countries, and household panel surveys for Switzerland, UK, Germany, and the Netherlands. Our analysis relies on a difference-in-differences estimator to study the impact of elections on party support, and on a within-individual estimator to look at the changes in voters’ partisan preferences before and after the election. Our contribution is two-fold. First, we contribute to the winner-loser gap literature by showing that winners and losers update their partisan preferences differently following an election. Second, we expand our understanding of opinion polls by showing how electoral results can dramatically affect patterns in voting intentions.
-</p></div>
-
-<script>
-function myFunction3() {
-      var x = document.getElementById("myDIV3");
-      if (x.style.display === "none") {
-        x.style.display = "block";
-      } else {
-        x.style.display = "none";
-      }
-    }
-</script>
-
-</p>
-
-
-:page_facing_up: <a style="color:#323232" href="https://sites.google.com/view/fannypuljic/home"> Fanny Puljic</a>, <a style="color:#323232" href="https://www.robertovalli.com/"> Roberto Valli</a> and Massimo Troncone. <b> Swiss Popular Initiatives and the Cultural Integration of Minorities</b>.

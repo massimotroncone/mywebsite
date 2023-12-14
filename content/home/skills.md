@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
 
+# Activate this widget? true/false
+active: false
+
 # This file represents a page section.
 headless: true
 
@@ -15,6 +18,7 @@ title: Talks
 # Section design
 design:
   columns: "2"
+
 ---
 
 + APSA Annual Meeting, MPSA Annual Conference, SPSA Annual Congress (2022)
