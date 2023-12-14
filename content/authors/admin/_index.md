@@ -50,7 +50,7 @@ title: Massimo Troncone
 
 I am a PhD candidate in political science at the European Politics Research Group at [ETH Zurich](https://macis.gess.ethz.ch/). 
 
-My primary research interest lies in electoral institutions and politicians’ behavior. In the first paper of my dissertation, I take advantage of the two-tier elections to the Italian Senate to study the political consequences of malapportionment. In the second paper, I exploit original data on church renovations across Italy between 1948 to 1994 to study the clientelistic relationship between the Christian Democrats and the Church.
-Currently, I am also collaborating on various projects on ethnic politics, with a particular focus on minorities’ political preferences and cultural integration.  My works typically combine observational data with standard methods for causal inference.
+My primary research interest lies in electoral institutions and politicians’ behavior. In the first paper of my dissertation, I take advantage of the two-tier elections to the Italian Senate to study the political consequences of malapportionment. In the second paper, I exploit original data on church renovations across Italy between 1948 and 1994 to study the clientelistic relationship between the Christian Democrats and the Church.
+Currently, I am also collaborating on various projects on ethnic politics, with a particular focus on minorities’ political preferences and cultural integration.  My research typically combines observational data with standard methods for causal inference.
 
 On this page, you can find information about my research and teaching. Feel free to [drop me an email](mailto::massimo.troncone@eup.gess.ethz.ch) for further requests.
