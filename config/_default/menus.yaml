@@ -15,9 +15,9 @@ main:
  #   weight: 30
   - name: Teaching
     url: '#accomplishments'
-    weight: 30
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 50
   - name: CV
     url: https://www.dropbox.com/scl/fi/tnlj61nbc4i0jiz5brrq4/CV.pdf?rlkey=90e0m88761jfdsncapzg6zlaz&dl=0
