@@ -1,28 +1,27 @@
 ---
 education:
   courses:
+  - course: PhD Political Science
+    institution: ETH Zurich, CH
+    year: 2024
   - course: Visiting Scholar
     institution: Washington University in St. Louis, USA
     year: 2022
-  - course: PhD Political Science
-    institution: ETH Zurich, CH
-    year: 2020 - Present
   - course: MA Comparative and International Studies
     institution: ETH Zurich, CH
     year: 2020
   - course: BA Scienze politiche e sociali
     institution: Università di Torino, IT
     year: 2018
-  - course: BA Politikwissenschaft
-    institution: TU Dresden, DE
-    year: 2017 (Erasmus)
+#  - course: BA Politikwissenschaft
+#    institution: TU Dresden, DE
+#    year: 2017 (Erasmus)
 email: ""
 highlight_name: true
 interests:
-- Electoral Institutions
-- Legislative Behavior
 - Distributive Politics
-- EU Politics
+- Electoral Institutions
+- Political Behavior
 
 organizations:
 - name: ETH Zurich
@@ -48,9 +47,8 @@ title: Massimo Troncone
 
 ---
 
-I am a PhD candidate in political science at the European Politics Research Group at [ETH Zurich](https://macis.gess.ethz.ch/). 
+I am a PhD candidate in political science at [ETH Zurich](https://macis.gess.ethz.ch/). 
 
-My primary research interest lies in electoral institutions and politicians’ behavior. In the first paper of my dissertation, I take advantage of the two-tier elections to the Italian Senate to study the political consequences of malapportionment. In the second paper, I exploit original data on church renovations across Italy between 1948 and 1994 to study the clientelistic relationship between the Christian Democrats and the Church.
-Currently, I am also collaborating on various projects on ethnic politics, with a particular focus on minorities’ political preferences and cultural integration.  My research typically combines observational data with standard methods for causal inference.
+My research focuses on distributive politics, electoral institutions, and voting behavior. I study how politicians choose to allocate public resources to secure re-election and how these decisions influence the political opinions of the general public. My work typically combines observational data with methods for causal inference
 
-On this page, you can find information about my research and teaching. Feel free to [drop me an email](mailto::massimo.troncone@eup.gess.ethz.ch) for further requests.
+On this page, you can find information about my research and teaching. Feel free to [drop me an email](mailto::massimo.troncone@eup.gess.ethz.ch).
