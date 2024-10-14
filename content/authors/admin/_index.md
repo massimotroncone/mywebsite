@@ -19,26 +19,27 @@ education:
 email: ""
 highlight_name: true
 interests:
+- Elections
 - Distributive Politics
-- Electoral Institutions
-- Political Behavior
+- Clientelism
+- Religion and Politics
 
 organizations:
 - name: ETH Zurich
   url: https://eup.ethz.ch/people/massimo-troncone.html
-role: PhD Candidate in Political Science
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto::massimo.troncone@eup.gess.ethz.ch
-- icon: github
-  icon_pack: fab
-  link: https://github.com/mtroncone
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/massimo_troncone/
-- display:
-    header: true
+role: Postdoctoral Researcher
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: mailto::massimo.troncone@eup.gess.ethz.ch
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/mtroncone
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://www.instagram.com/massimo_troncone/
+#- display:
+#    header: true
   
 superuser: true
 title: Massimo Troncone
@@ -47,8 +48,10 @@ title: Massimo Troncone
 
 ---
 
-I am a PhD candidate in political science at [ETH Zurich](https://macis.gess.ethz.ch/). 
+I am political scientist working on elections and political representation. Currently, I am a Postdoctoral Researcher at [ETH Zurich](https://eup.ethz.ch/).
 
-My research focuses on distributive politics, electoral institutions, and voting behavior. I study how politicians choose to allocate public resources to secure re-election and how these decisions influence the political opinions of the general public. My work typically combines observational data with methods for causal inference
+My research lies at the intersection of distributive politics and electoral institutions. I study the distribution of public resources with a focus on legislative politics, clientelism and re-election incentives. I am also interested in public opinion and voting behavior, with particular attention to ethnic minorities. My work typically combines observational data with methods for causal inference.
 
-On this page, you can find information about my research and teaching. Feel free to [drop me an email](mailto::massimo.troncone@eup.gess.ethz.ch).
+I earned my PhD in Political Science at [ETH Zurich](https://eup.ethz.ch/) in August 2024 and was a visiting PhD student at [Washington University in St. Louis](https://polisci.wustl.edu/) in 2022.
+
+On this page, you can find information about my research. Feel free to [drop me an email](mailto::massimo.troncone@eup.gess.ethz.ch).
