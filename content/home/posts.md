@@ -19,7 +19,7 @@ design:
 ---
 
 <p style="margin-bottom:0;">
-:page_facing_up: Massimo Troncone. <b> Malapportionment, Legislator Effort and the Representation of District Interests. Evidence from the Italian Senate</b>. Submitted
+:page_facing_up: Massimo Troncone. <b> Malapportionment, Legislator Effort and the Representation of District Interests. Evidence from the Italian Senate</b>. Under Review
 </p> 
 <p>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
